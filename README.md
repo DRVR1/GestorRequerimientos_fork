@@ -4,6 +4,17 @@
 
 Sistema de gestion de requerimientos que permite iniciar sesion, registrar requerimientos, con categorias, archivos, comentarios, y mas datos. Tambien se pueden administrar los usuarios desde un panel de administrador
 
+## Sreenshots
+
+![image](https://github.com/user-attachments/assets/a14e708f-109d-4dea-86da-e60bec28e8b5)
+![image](https://github.com/user-attachments/assets/55cf6c81-2dd0-4488-8c7b-fcbc917f46f7)
+![image](https://github.com/user-attachments/assets/25c481e2-9c4f-4aca-bcb5-88b55b5a7a54)
+![image](https://github.com/user-attachments/assets/8e62852a-8b64-44bf-bcc4-661e1a752551)
+![image](https://github.com/user-attachments/assets/e4ccca03-27b0-44bb-b456-3e68cdfa2740)
+![image](https://github.com/user-attachments/assets/a20721bc-73f9-480a-b5c7-3c0771488b64)
+![image](https://github.com/user-attachments/assets/3a761e4b-a114-46dd-93be-e332ae8ff9ab)
+
+
 ## Correr el proyecto usando docker
 
 ### Requerimientos:
